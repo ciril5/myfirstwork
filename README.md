@@ -1,4 +1,3 @@
 My first work
 
-url:
-https://ciril5.github.io/1st-form/
+url:   https://ciril5.github.io/myfirstwork/
